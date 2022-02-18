@@ -6,10 +6,10 @@ import java.util.Arrays;
 public class Questao_3 {
 
 	public static void main(String[] args) {
-		escada("ifailuhkqq");
+		anagrama("ifailuhkqq");
 	}
 
-	public static void escada(String s) {
+	public static void anagrama(String s) {
 
 		ArrayList<String> list = new ArrayList<String>();
 		ArrayList<String> list2 = new ArrayList<String>();
